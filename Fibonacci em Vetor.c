@@ -8,7 +8,7 @@
 int main(){
     // criando o vetor com números de fibonacci
     int i;
-    unsigned long long int fibonacci[61];
+    unsigned long long fibonacci[61];
     i = 2;
     while (i < 61){
         fibonacci[0] = 0; fibonacci[1] = 1;
